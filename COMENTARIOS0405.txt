@@ -1,0 +1,14 @@
+Os nomes no diagrama de caso de uso e descrição de caso de uso devem ser OS MESMOS
+que estão não lista de requisitos funcionais. (VERIFICAR TODOS)
+
+Os atores que estão na lista de requisitos não estão batendo com os que estão no diagrama de casode uso. (VERIFICAR TODOS)
+
+PRECISA DE UM ATOR Sistema no Diagrama de caso de uso para opções como são enviadas as notificações??? Precisa de um caso de uso??? Caso
+seja criado mais um caso de uso, colocar na lista de requisitos, no diagrama de caso de uso e na descrição de caso de uso.
+
+Não precisa linha ligando Gerenciar Cursos e Relacionar Cursos com Universidades
+
+
+Verificar os casos de uso que são chamados a partir de Gerenciar Universidades e tem outra chamada direta (caso não sejam necessárias
+é preferível deixar somente os extends)
+
