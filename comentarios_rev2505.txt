@@ -1,0 +1,1 @@
+Fazer nova versão diagrama de classes. Fazer telas faltantes. TEM QUE SER RESPONSIVO, então cuidado com o excesso de informações nas telas.  Lembre-se o usuário precisa saber onde está, possíveis saídas. 
